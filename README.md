@@ -1,7 +1,9 @@
 # FF14_ServerMap
+<ul>
+  <li>Use selenuim to pull the server map from sdo website.</li>
+  <li>Will need packages in requirements.txt</li>
+  <li>Python - 3.10</li>
+</ul>
 
-Use selenuim to pull the server map from sdo website.__
-Will need packages in requirements.txt__
-Python - 3.10__
-__
-Result will be found as result.json in the same directory.
+<h3>Result will be found as result.json in the same directory.</h3>
+
